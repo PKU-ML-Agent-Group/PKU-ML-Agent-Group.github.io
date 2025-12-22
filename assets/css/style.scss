@@ -1,0 +1,10 @@
+---
+---
+@import "{{ site.theme }}";
+
+.main-content, .inner, .wrapper, .container {
+  max-width: 1400px;  /* 你可以改成 1400px */
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
