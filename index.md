@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs and so on.
+PKU-ML-Agent group advised by [Yuan Li](https://yuanli2333.github.io/) and [Yuyang Liu](https://yuyangsunshine.github.io/index-zh.html) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs, Agent and so on.
+## New! ML Group 2025 FALL
+
 ## 2025 FALL
 - **[2025-09-05]** MemP Exploring Agent Procedural Memory. [[pdf](./ppt/20250905-MemP%20Exploring%20Agent%20Procedural%20Memory.pdf)] Qiu-He Hong
 - **[2025-09-12]** LLMs Post-training Dreams, Reality, and Fallacies. [[pdf](./ppt/x.pdf)] Shuo Yang
