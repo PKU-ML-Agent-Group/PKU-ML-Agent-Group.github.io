@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-PKU-ML-Agent group advised by [Yuan Li](https://yuanli2333.github.io/) and [Yuyang Liu](https://yuyangsunshine.github.io/index-zh.html) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs, Agent and so on.
+PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs, Agent and so on.
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
