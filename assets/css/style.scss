@@ -2,9 +2,14 @@
 ---
 @import "{{ site.theme }}";
 
-.main-content, .inner, .wrapper, .container {
-  max-width: 2000px;  /* 你可以改成 1400px */
+/* ✅ 覆写主题里写死的 .inner { width: 620px; } */
+.inner {
+  width: min(1200px, 92vw) !important;  /* 想更宽就把 1200 改成 1400 */
+  margin: 0 auto !important;
+}
+
+/* 可选：给左右留点边距（小屏更舒服） */
+#container {
   padding-left: 24px;
   padding-right: 24px;
 }
-
