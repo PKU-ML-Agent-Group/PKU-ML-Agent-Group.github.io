@@ -15,6 +15,8 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2025-12-04]** AgentEvolver: Towards Efficient Self Evolving Agent System. [[pdf](./ppt/20251204-AgentEvolver_1203组会.pdf)] Jing-Ya Wang
 - **[2025-12-10]** A Survey of Self-Evolving Agents. [[pdf](./ppt/20251210-Self-EvolveAgents-lyy.pdf)] Yu-Yang Liu
 - **[2025-12-17]** TTS for MAS. [[pdf](./ppt/20251217-TTS%20for%20MAS.pdf)] Hong-Yang Li
+- **[2025-12-24]** TextGrad. [[pdf](./ppt/20251224-textgrad.pdf)] Yao Xin
+- **[2025-12-24]** COVT. [[pdf](./ppt/20251224-COVT.pdf)] Yu-Lu Zhou
 
 ## 2025 FALL
 - **[2025-09-05]** MemP Exploring Agent Procedural Memory. [[pdf](./ppt/20250905-MemP%20Exploring%20Agent%20Procedural%20Memory.pdf)] Qiu-He Hong
