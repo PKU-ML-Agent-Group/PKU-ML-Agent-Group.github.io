@@ -6,6 +6,8 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 ## 2026 SPRING
 - **[2026-01-07]** TTT_KVB/TTT_E2E. [[pdf](./ppt/20260107-TTT_KVB-TTT_E2E.pdf)] Xin-Lin Peng
 - **[2026-01-14]** Task Arithmetic in the Tangent Space. [[pdf](./ppt/20260114-Task Arithmetic in the Tangent Space.pdf)] Qiu-He Hong
+- **[2026-01-21]** Neural Tangent Kernel, NTK. [[pdf](./ppt/20260121-NTK-PTT.pdf)] Tian-tian Peng
+- **[2026-03-04]** Jit: Back to Basics: Let Denoising Generative Models Denoise. [[pdf](./ppt/20260304-JiT-NYW.pdf)] Yu-wei Niu
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
