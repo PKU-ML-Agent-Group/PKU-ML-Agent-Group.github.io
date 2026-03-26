@@ -10,7 +10,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-03-04]** Jit: Back to Basics: Let Denoising Generative Models Denoise. [[pdf](./ppt/20260304-JiT-NYW.pdf)] Yu-wei Niu
 - **[2026-03-11]** SkillsBench. [[pdf](./ppt/20260311-SkillsBench-LLZH.pdf)] Liu-Zheng-Hao Lv
 - **[2026-03-18]** OPSD: Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models. [[pdf](./ppt/20260318-OPSD-WJY.pdf)] Jing-Ya Wang
-- **[2026-03-25]** FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization [[pdf](./ppt/20260325-FIFO-YS.pdf)] Shuo Yang
+- **[2026-03-25]** FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization [[pdf](./ppt/20260325-FIPO-YS.pdf)] Shuo Yang
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
