@@ -13,6 +13,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-03-25]** FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization [[pdf](./ppt/20260325-FIPO-YS.pdf)] Shuo Yang
 - **[2026-04-01]** Latent-DARM: Bridging Discrete Diffusion and Autoregressive Models for Reasoning [[pdf](./ppt/20260401-LATENT-LHY.pdf)] Hong-Yang Li
 - **[2026-04-08]** GKD & REOPOLD [[pdf](./ppt/20260408-GKD+REOPOLD-PXY.pdf)] Xin-Yao Peng
+- **[2026-04-15]** MemAgent [[pdf](./ppt/20260415-MemAgent-ZYL.pdf)] Yu-Lu Zhou
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
