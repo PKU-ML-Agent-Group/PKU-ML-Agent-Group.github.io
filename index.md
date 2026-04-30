@@ -15,7 +15,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-04-08]** GKD & REOPOLD [[pdf](./ppt/20260408-GKD+REOPOLD-PXY.pdf)] Xin-Yao Peng
 - **[2026-04-15]** MemAgent [[pdf](./ppt/20260415-MemAgent-ZYL.pdf)] Yu-Lu Zhou
 - **[2026-04-22]** SLM-LLM Token-Level Collaborative-Decoding [[pdf](./ppt/20260424-SLM-LLM Token-Level Collaborative-Decoding-PXL.pdf)] Xin-Lin Peng
-- **[2026-04-29]** Agent-based Robot (Manipulate-Anything & NovaPlan) [[pdf](./ppt/20260429-AgentBasedRobot-GYY.pdf)] Yu-Yang Gao
+- **[2026-04-29]** Agent-based Robot (Manipulate-Anything & NovaPlan) [[pdf](./ppt/20260429-Agent based Robot-GYY.pdf)] Yu-Yang Gao
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
