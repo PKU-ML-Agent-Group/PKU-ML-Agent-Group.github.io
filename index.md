@@ -18,7 +18,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-04-29]** Agent-based Robot (Manipulate-Anything & NovaPlan) [[pdf](./ppt/20260429-Agent based Robot-GYY.pdf)] Yu-Yang Gao
 - **[2026-05-08]** Valse 2026: LLM Agent [[pdf](./ppt/20260508-LLM_Agent_Valse-HJY.pdf)] Jian-Ye Hao
 - **[2026-05-13]** Hierarchical Memory [[pdf](./ppt/20260514-Hierarchical_Memory-HQH.pdf)] Qiu-He Hong
-- **[2026-05-20]** RLVR [[pdf](./ppt/20260514-RLVR-PTT.pdf)] Tian-Tian Peng
+- **[2026-05-20]** RLVR [[pdf](./ppt/20260520-RLVR-PTT.pdf)] Tian-Tian Peng
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
