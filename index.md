@@ -21,6 +21,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-05-20]** RLVR [[pdf](./ppt/20260520-RLVR-PTT.pdf)] Tian-Tian Peng
 - **[2026-05-27]** QuantReport [[pdf](./ppt/20260527-QuantReport-YS.pdf)] Shuo Yang
 - **[2026-06-03]** SkillGrad [[pdf](./ppt/20260603-SkillGrad-WYM.pdf)] Yi-Mi Wang
+- **[2026-06-10]** MemGen [[pdf](./ppt/20260610-MemGen-GCZ.pdf)] Cun-Zhen Geng
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
