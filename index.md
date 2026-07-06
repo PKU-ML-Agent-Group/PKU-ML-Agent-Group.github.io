@@ -24,6 +24,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-06-10]** MemGen [[pdf](./ppt/20260610-MemGen-GCZ.pdf)] Cun-Zhen Geng
 - **[2026-06-17]** Robin & Co-science [[pdf](./ppt/20260617-Robin_Co-science-GuoYY.pdf)] Yi-Yuan Guo
 - **[2026-06-24]** CRISPRGPT & MAProt [[pdf](./ppt/20260624-CRISPRGPT&MAProt-FYB-.pdf)] Yin-Bo Fu
+- **[2026-06-24]** MAS_2 & CoMAS [[pdf](./ppt/20260701-MAS_2&CoMAS-WHD.pdf)] Hao-Dong Wang
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
