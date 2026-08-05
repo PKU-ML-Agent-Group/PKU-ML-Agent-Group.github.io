@@ -26,9 +26,9 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-06-24]** CRISPRGPT & MAProt [[pdf](./ppt/20260624-CRISPRGPT&MAProt-FYB-.pdf)] Yin-Bo Fu
 - **[2026-07-01]** MAS_2 & CoMAS [[pdf](./ppt/20260701-MAS_2&CoMAS-WHD.pdf)] Hao-Dong Wang
 - **[2026-07-08]** MemVerse&M3Exam [[pdf](./ppt/20260708-MemVerse&M3Exam-WJY.pdf)] Jing-Ya Wang
-- **[2026-07-15]** AOrchestra [[pdf](./ppt/20260715-AOrchestra-LLZH.pdf)] ‪Liu-Zheng-Hao Lv
-- 
+- **[2026-07-15]** AOrchestra [[pdf](./ppt/20260715-AOrchestra-LLZH.pdf)] ‪Liu-Zheng-Hao Lv‪
 - **[2026-07-22]** Rethink OPD [[pdf](./ppt/20260722-Rethink_OPD-PTT.pdf)] ‪Tian-Tian Peng
+- **[2026-07-29]** AOrchestra [[pdf](./ppt/20260729-CoPD-LHY.pdf)] Hong-Yang Li
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
