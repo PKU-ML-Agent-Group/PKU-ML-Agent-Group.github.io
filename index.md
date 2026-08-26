@@ -29,6 +29,8 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-07-15]** AOrchestra [[pdf](./ppt/20260715-AOrchestra-LLZH.pdf)] ‪Liu-Zheng-Hao Lv‪
 - **[2026-07-22]** Rethink OPD [[pdf](./ppt/20260722-Rethink_OPD-PTT.pdf)] ‪Tian-Tian Peng
 - **[2026-07-29]** CoPD [[pdf](./ppt/20260729-CoPD-LHY.pdf)] Hong-Yang Li
+- **[2026-08-19]** JitRL [[pdf](./ppt/20260819-JitRL-PXY.pdf)] Xin-Yao Peng
+- **[2026-08-26]** MOPD [[pdf](./ppt/20260826-MOPD-PXL.pdf)] Xin-Lin Peng
 
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
