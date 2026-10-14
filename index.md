@@ -7,6 +7,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-09-02]** Harness_Continual_Learning. [[pdf](./ppt/20260902-Harness_Continual_Learning-HQH.pdf)] Qiu-He Hong
 - **[2026-09-02]** Every_Coin_Has_Two_Sides. [[pdf](./ppt/20260902-Every_Coin_Has_Two_Sides-WYM.pdf)] Yi-Mi Wang
 - **[2026-09-09]** Labevolver_Zeva_LeWorldModel. [[pdf](./ppt/20260909-Labevolver_Zeva_LeWorldModel_GYY.pdf)] Yu-Yang Gao
+- **[2026-09-30]** JIT_Agent. [[pdf](./ppt/20260930-JIT-Agent-GCZ.pdf)] Cun-zhen Geng
 
 ## 2026 SPRING
 - **[2026-01-07]** TTT_KVB/TTT_E2E. [[pdf](./ppt/20260107-TTT_KVB-TTT_E2E.pdf)] Xin-Lin Peng
