@@ -9,7 +9,7 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-09-09]** Labevolver_Zeva_LeWorldModel. [[pdf](./ppt/20260909-Labevolver_Zeva_LeWorldModel_GYY.pdf)] Yu-Yang Gao
 - **[2026-09-23]** deepresearch. [[pdf](./ppt/20260923-deepresearch-WYM.pdf)] Yi-mi Wang
 - **[2026-09-30]** JIT_Agent. [[pdf](./ppt/20260930-JIT-Agent-GCZ.pdf)] Cun-zhen Geng
-- 
+- **[2026-10-29]** SimpleMemVLA. [[pdf](./ppt/20261029-SimpleMemVLA-ZZN.pdf)] Zi-Ning Zhang
 
 ## 2026 SPRING
 - **[2026-01-07]** TTT_KVB/TTT_E2E. [[pdf](./ppt/20260107-TTT_KVB-TTT_E2E.pdf)] Xin-Lin Peng
