@@ -12,6 +12,8 @@ PKU-ML-Agent group mainly focus on machine learning, reinforcement learning, act
 - **[2026-10-14]** MASkills. [[pdf](./ppt/20261013-MASkills-GuoYY.pdf)] Yi-Yuan Guo
 - **[2026-10-29]** SimpleMemVLA. [[pdf](./ppt/20261029-SimpleMemVLA-ZZN.pdf)] Zi-Ning Zhang
 - **[2026-11-05]** RQGM. [[pdf](./ppt/20261105-RQGM-WHD.pdf)] Hao-Dong Wang
+- **[2026-11-12]** RAO. [[pdf](./ppt/20261112-RAO-WYZ.pdf)] Yong-Zhao Wu
+- **[2026-11-26]** AW-0. [[pdf](./ppt/20261126-AW-0-WJY.pdf)] Jing-Ya Wang
 
 ## 2026 SPRING
 - **[2026-01-07]** TTT_KVB/TTT_E2E. [[pdf](./ppt/20260107-TTT_KVB-TTT_E2E.pdf)] Xin-Lin Peng
